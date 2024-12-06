@@ -1,0 +1,7 @@
+{
+  "source": {
+      "include": [ "./app" ],
+      "includePattern": ".+\\.(js(doc|x)?|mjs)$",
+      "excludePattern": "(^|\\/|\\\\)_"
+  }
+}

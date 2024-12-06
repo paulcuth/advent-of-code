@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "strict": true,
+    "lib": ["es2021"],
+    "module": "nodenext",
+  }
+}
